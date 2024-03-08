@@ -2,5 +2,5 @@
 *
 
 # Except for .cs and .txt files
-*.cs
-*.txt
+!*.cs
+!*.txt
