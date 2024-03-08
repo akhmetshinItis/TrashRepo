@@ -1,0 +1,6 @@
+# Ignore all files
+*
+
+# Except for .cs and .txt files
+*.cs
+*.txt
