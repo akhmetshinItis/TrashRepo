@@ -1,6 +1,5 @@
-# Ignore all files
+# Игнорировать все файлы, кроме .cs и .txt
 *
-
-# Except for .cs and .txt files
+!*/
 !*.cs
 !*.txt
